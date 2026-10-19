@@ -1,0 +1,22 @@
+# Ignorar archivos de configuración local
+docker-compose.yml
+.env
+.pytest_cache
+.vscode
+.git
+.gitignore
+
+# Ignorar TODA la carpeta de tests en producción
+test/
+tests/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.db
+
+# Ignorar archivos de datos o excels de prueba
+*.xlsx
+*.csv

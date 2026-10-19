@@ -1,0 +1,33 @@
+Equipo;Tipo Equipo;Marca Equipo;Posicion;Codigo Llanta;Tipo Llanta;Dimension;Diseno;Marca;Fecha de Montaje;Horo Montaje;Km Montaje;Kilometraje;Horometro;Ext;Cen;Int;PSI;Observaciones
+101;Montacargas;Norvik MX-30;1;-;N;28X9-15;Industrial;Taurex;14/03/2024;3512;;-;4120;33;;28;25;
+101;Montacargas;Norvik MX-30;2;-;N;28X9-15;Industrial;Taurex;-;;;-;4120;14;;12;42;
+101;Montacargas;Norvik MX-30;3;-;N;6.50-10;Industrial;Brevan;-;;;-;4120;40;;39;25;
+101;Montacargas;Norvik MX-30;4;-;N;6.50-10;Industrial;Brevan;-;;;-;4120;35;;32;26;
+102;Montacargas;Norvik MX-30;1;-;N;28X9-15;Industrial;Taurex;-;;;-;5870;13;;9;37;
+102;Montacargas;Norvik MX-30;2;-;N;28X9-15;Industrial;Taurex;-;;;-;5870;15;;14;42;
+102;Montacargas;Norvik MX-30;3;-;N;6.50-10;Industrial;Brevan;-;;;-;5870;33;;33;31;
+102;Montacargas;Norvik MX-30;4;-;N;6.50-10;Industrial;Brevan;-;;;-;5870;16;;14;37;DESGASTE IRREGULAR
+103;Cargador frontal;Kalder C200;1;-;N;33X12-20;Traccion;Orlyn;-;;;-;3015;15;;11;33;
+103;Cargador frontal;Kalder C200;2;-;N;33X12-20;Traccion;Orlyn;25/01/2025;2345;;-;3015;14;;10;42;CORTE EN COSTADO
+103;Cargador frontal;Kalder C200;3;-;N;33X12-20;Traccion;Orlyn;-;;;-;3015;20;;18;27;
+103;Cargador frontal;Kalder C200;4;-;N;33X12-20;Traccion;Orlyn;25/01/2025;2587;;-;3015;11;;7;30;
+104;Cargador frontal;Kalder C200;1;-;N;33X12-20;Traccion;Orlyn;2/09/2023;902;;-;2290;35;;29;34;
+104;Cargador frontal;Kalder C200;2;-;N;33X12-20;Traccion;Orlyn;2/09/2023;791;;-;2290;37;;35;33;
+104;Cargador frontal;Kalder C200;3;-;N;33X12-20;Traccion;Orlyn;-;;;-;2290;19;;14;31;
+104;Cargador frontal;Kalder C200;4;-;N;33X12-20;Traccion;Orlyn;-;;;-;2290;27;;23;39;
+105;Montacargas;Veltra V25;1;-;N;225/75-15;Premium;Marlen;14/03/2024;5121;;-;6340;26;;22;26;REGRABADO
+105;Montacargas;Veltra V25;2;-;N;225/75-15;Premium;Marlen;-;;;-;6340;40;;37;29;
+105;Montacargas;Veltra V25;3;-;N;6.50-10;Premium;Marlen;14/03/2024;5729;;-;6340;39;;36;25;
+105;Montacargas;Veltra V25;4;-;N;6.50-10;Premium;Marlen;-;;;-;6340;12;;6;41;
+106;Montacargas;Veltra V25;1;-;N;225/75-15;Premium;Marlen;25/01/2025;8178;;-;9120;29;;24;35;
+106;Montacargas;Veltra V25;2;-;N;225/75-15;Premium;Marlen;25/01/2025;7803;;-;9120;37;;37;26;PINCHAZO REPARADO
+106;Montacargas;Veltra V25;3;-;N;6.50-10;Premium;Marlen;14/03/2024;7850;;-;9120;12;;12;33;
+106;Montacargas;Veltra V25;4;-;N;6.50-10;Premium;Marlen;-;;;-;9120;36;;34;36;
+107;Minicargador;Kalder S70;1;-;N;12-16.5;Uso Rudo;Orlyn;-;;;-;1840;30;;30;38;
+107;Minicargador;Kalder S70;2;-;N;12-16.5;Uso Rudo;Orlyn;14/03/2024;1196;;-;1840;15;;12;25;
+107;Minicargador;Kalder S70;3;-;N;12-16.5;Uso Rudo;Orlyn;-;;;-;1840;26;;25;31;RIN GOLPEADO
+107;Minicargador;Kalder S70;4;-;N;12-16.5;Uso Rudo;Orlyn;2/09/2023;740;;-;1840;39;;39;29;
+108;Montacargas;Norvik MX-30;1;-;N;28X9-15;Industrial;Taurex;2/09/2023;2528;;-;3650;25;;24;37;
+108;Montacargas;Norvik MX-30;2;-;N;28X9-15;Industrial;Taurex;25/01/2025;2780;;-;3650;34;;32;36;
+108;Montacargas;Norvik MX-30;3;-;N;6.50-10;Industrial;Brevan;-;;;-;3650;17;;17;29;
+108;Montacargas;Norvik MX-30;4;-;N;6.50-10;Industrial;Brevan;-;;;-;3650;22;;17;31;
